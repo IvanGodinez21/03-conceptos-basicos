@@ -1,0 +1,11 @@
+html {
+    background-color: rgb(223, 223, 223);
+    font-family: 'Muli', sans-serif;
+}
+
+h1 {
+    color: rgb(151, 151, 151);
+    text-align: center;
+    border-style: dashed;
+    border-radius:160px;
+}
